@@ -24,7 +24,7 @@ and **computational engineering**. Based in Fort Collins, CO.
 |---|---|---|
 | [Valkyrie-4 LEO Constellation](https://github.com/faisalzsayyed/valkyrie-4-leo-constellation) | STK Astrogator, MATLAB | 4-sat deployment, ΔV ≈ 266 m/s |
 | [Rocket Nozzle VVUQ Framework](https://github.com/faisalzsayyed/rocket-nozzle-vvuq) | MATLAB, NASA test data | R² = 0.944, validated vs NASA |
-| [H₂-Electric Propulsion Optimizer](#) | MATLAB, fmincon | 20% peak current reduction |
+| [H₂-Electric Propulsion Optimizer](https://github.com/faisalzsayyed/h2-electric-propulsion-optimizer) | MATLAB, fmincon | 20% peak current reduction |
 | [NOx Combustion Modeling](https://github.com/faisalzsayyed/nox-combustion-modeling) | Python, Cantera, GRI-Mech 3.0 | 5-stage PSR parametric sweep |
 
 ---
